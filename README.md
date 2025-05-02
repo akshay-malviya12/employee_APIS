@@ -1,4 +1,8 @@
 # employee_APIS
+
+Using this postman....
+after login add bearer token in Autheratization..... 
+
 SIGNUP
 {"name":"name21","email":"admin1@example.com","password":"123","type":"Admin"}
 
