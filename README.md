@@ -1,5 +1,5 @@
 # employee_APIS
-## SIGNUP
+SIGNUP
 {"name":"name21","email":"admin1@example.com","password":"123","type":"Admin"}
 
 LOGIN
