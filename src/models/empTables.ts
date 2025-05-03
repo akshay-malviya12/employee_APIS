@@ -63,7 +63,7 @@ const Employee = sequelize.define("Employee", {
 });
 
 // Set up the One-to-Many relationship
-User.hasMany(Employee, { foreignKey: 'userId' }); // User1 can have many User2
+User.hasMany(Employee, { foreignKey: 'userId' }); 
 
 sequelize.sync().then(() => {
   console.log('employee table created successfully!');
